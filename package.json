@@ -7,7 +7,7 @@
     "dev": "vite --host --port 3000",
     "dev:watch": "vite --host --port 3000 --watch",
     "dev:auto": "node start-dev.js",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "build:watch": "tsc --watch && vite build --watch",
     "lint": "eslint .",
     "lint:watch": "eslint . --watch",

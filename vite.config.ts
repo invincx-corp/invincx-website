@@ -18,7 +18,4 @@ export default defineConfig({
       overlay: true,
     },
   },
-  build: {
-    watch: {},
-  },
 });
